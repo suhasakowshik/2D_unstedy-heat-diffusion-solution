@@ -1,5 +1,5 @@
-# unstedy-heat-diffusion-solution
-unstedy heat diffusion solution through c ++ and post process data in MATLAB
+# 2D unstedy-heat-diffusion-solution
+2D unstedy heat diffusion solution through c ++ and post process data in MATLAB
 
 
 
